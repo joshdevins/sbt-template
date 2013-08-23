@@ -1,4 +1,3 @@
-sbt-template
-============
+# sbt-template
 
-A basic sbt project template with current best configuration and versions
+A basic sbt project template with current best configuration and versions.
