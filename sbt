@@ -3,7 +3,7 @@
 # everything is relative to this script
 cd $(dirname "$0")
 
-VERSION="0.12.4"
+VERSION="0.13.0"
 REMOTE_ZIP="http://scalasbt.artifactoryonline.com/scalasbt/sbt-native-packages/org/scala-sbt/sbt/$VERSION/sbt.zip"
 DEPS=".deps/sbt"
 TEMP="$DEPS/temp"
